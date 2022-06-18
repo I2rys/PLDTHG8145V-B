@@ -1,4 +1,5 @@
 <h1 align="center">PLDTHG8145V-B</h1>
+<h1 align="center">PLDTHG8145V-B has been transfered to <a href="https://github.com/I2rys/ZeroPLDT">ZeroPLDT</a> and It's now called Bruteforce HG8145V</h1>
 <h4 align="center">PLDT HG8145V login bruteforcer</h4>
 <p align="center">
 	<a href="https://github.com/I2rys/PLDTHG8145V-B/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/PLDTHG8145V-B?style=flat-square"></img></a>
